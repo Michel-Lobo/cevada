@@ -1,0 +1,60 @@
+[
+    {
+        "categoryId": 1,
+        "category_name": "Wheat Beer"
+    },
+    {
+        "categoryId": 2,
+        "category_name": "Lambic & Sour"
+        
+    },
+    {
+        "categoryId": 3,
+        "category_name": "Belgian Ale"
+    },
+    {
+        "categoryId": 4,
+        "category_name": "Pale Ale"
+    },
+    {
+        "categoryId": 5,
+        "category_name": "English Bitter"
+    },
+    {
+        "categoryId": 6,
+        "category_name": "Scotish Ale"
+    },
+    { 
+        "categoryId": 7,
+        "category_name": "Porter"
+    },
+    {
+        
+        "categoryId": 8,
+        "category_name": "Stout"
+    },
+    {
+        "categoryId": 9,
+        "category_name": "Pilsner"
+    },
+    {
+        "categoryId": 10,
+        "category_name": "Brown Ale"
+    },
+    {
+        "categoryId": 11,
+        "category_name": "American Lager"
+    },
+    {
+        "categoryId": 12,
+        "category_name": "European Lager"
+    },
+    {
+        "categoryId": 13,
+        "category_name": "Bock"
+    },
+    {
+        "categoryId": 14,
+        "category_name": "Hybrid Style"
+    }
+]
